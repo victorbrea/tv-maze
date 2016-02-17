@@ -14,4 +14,6 @@ client.shows(function (err, shows) {
 client.search('lost', function (err, shows) {
     //do something shows
     })
+
 ```
+
